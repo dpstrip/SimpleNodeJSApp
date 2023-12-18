@@ -1,0 +1,2 @@
+ssh into box using the DPSkeyPair2 openssh key pair
+ssh -i "D:\Users\david.stripeik\Downloads\DPSkeyPair2.pem" ec2-user@ec2-54-166-207-213.compute-1.amazonaws.com
