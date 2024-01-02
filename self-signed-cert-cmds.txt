@@ -1,0 +1,1 @@
+aws acm import-certificate --certificate file://my-aws-public.crt --private-key file://my-aws-private.key --region us-east-1
